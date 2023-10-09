@@ -53,3 +53,6 @@ This project uses the News API to fetch the latest news articles. The API key us
 app/: Contains the page.js page that displays the blog posts.
 components/: Holds Header.js components used in the project.
 styles/: Contains Tailwind CSS styles and configuration.
+
+
+Open http://localhost:3000 with your browser to see the result.
